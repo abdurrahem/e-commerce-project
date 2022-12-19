@@ -1,0 +1,32 @@
+[
+    {
+      "imgUrl": "./assets/pants/Best Summer.jfif",
+      "name": "Best Summer",
+      "price": 110
+    },
+    {
+      "imgUrl": "./assets/pants/COMO SUIT PANTS.jfif",
+      "name": "COMO SUIT PANTS",
+      "price": 91
+    },
+    {
+      "imgUrl": "./assets/pants/Gerry Venture.jfif",
+      "name": "Gerry Venture",
+      "price": 94
+    },
+    {
+      "imgUrl": "./assets/pants/HEROK medium.jfif",
+      "name": "HEROK medium",
+      "price": 143
+    },
+    {
+      "imgUrl": "./assets/pants/PILGRAM PANTS.jfif",
+      "name": "PILGRAM PANTS",
+      "price": 150
+    },
+    {
+      "imgUrl": "./assets/pants/Trousers for Men.jfif",
+      "name": "Trousers for Men",
+      "price": 250
+    }
+  ]
